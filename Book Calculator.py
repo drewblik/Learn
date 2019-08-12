@@ -10,5 +10,5 @@ print("You will finish this book in "  + str(hh_finish)+  " days!")
 file1 = open(r"C:\Users\drewb\Desktop/BookList.txt","a")
 file1.write(name)
 file1.write( "\n"+str(hh_finish) + " days to finish")
-
+#12 rules for life 210 pages 385wpp
 
